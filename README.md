@@ -26,12 +26,12 @@ Here's a preview of what cats I have so far:
 
 <img src="https://github.com/Oohwo/battle-cats-progress/blob/main/wireframes/black%20catculator.png?raw=true" width=700>
 
-### Goals
-- [ ] Brainstorm / Create Wireframes
-- [ ] Webscrape Battle Cats Wikia for All Cats
-- [ ] Export data from Black Catculator
-- [ ] Discord Bot...?
-- [ ] Create a Figma File
+### Next Steps
+- [x] Brainstorm / Create Wireframes
+- [ ] Export data from various sources (Battle Cats Wikia, UDP, Black Catculator)
+- [ ] Clean that data ooh yeah
+- [ ] Discord Bot for reading and writing to website?
+- [ ] Create a Figma File for website
 - [ ] Figure out how to create a website with the Figma file
 - [ ] Create a Table / Gallery View for All Cats
 
