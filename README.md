@@ -23,7 +23,8 @@ Note: Do not play if you have a gambling addiction... it's a gacha game
 I'm currently using [r/BattleCats's Black Catculator](https://docs.google.com/spreadsheets/d/1apSRNVAcpT4DRILXUASK691z7IlTxF7yw2ot_JVLO6E/edit#gid=894095787) to track my progress. I plan to utilize some of the main features of the spreadsheet in my website.
 
 Here's a preview of what cats I have so far:
-[insert image here]
+
+<img src="https://github.com/Oohwo/battle-cats-progress/blob/main/wireframes/black%20catculator.png?raw=true" width=700>
 
 ### Goals
 - [ ] Brainstorm / Create Wireframes
@@ -61,6 +62,8 @@ Average Level for Cats:
 | Overall | int | int |
 
 ## Wireframes:
+<img src="https://github.com/Oohwo/battle-cats-progress/blob/main/wireframes/possible_homepage.png?raw=true" width=200>
+<img src="https://github.com/Oohwo/battle-cats-progress/blob/main/wireframes/cats%20and%20stats%20wireframe.png?raw=true" width=500>
 
 ## Credits / Various Links
 - [Battle Cats](https://battlecats.club/en/series/battlecats/)
